@@ -49,6 +49,7 @@
 
     let numUsers = 0;
     for (const userId in db.users) {
+      let userId = 'manugarri'; //LA_TEMP
       assert(userId.toLowerCase()===userId);
       if (!db.users[userId].ghuser_deleted_because) {
         ++numUsers;
@@ -57,6 +58,7 @@
         await fetchUserContribs(userId);
         await fetchUserPopularForks(userId);
       }
+      break; //LA_TEMP
     }
     stripUnreferencedOrgs();
 
@@ -247,6 +249,7 @@
     }
 
     async function fetchRepo(repo) {
+      delete db.repos[repo].prev_fetched_at; //LA_TEMP
       const ghRepoUrl = `https://api.github.com/repos/${repo}`;
       spinner = ora(`Fetching ${ghRepoUrl}...`).start();
 
