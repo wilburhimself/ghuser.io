@@ -19,7 +19,7 @@
 # TODO:
 # SG SSH inbound from anywhere
 # ssh -i secret.pem ubuntu@54.146.161.0 // quick
-# ssh -i secret.pem ubuntu@34.233.121.88 // quicker
+# ssh -i secret.pem ubuntu@34.233.121.88 // done
 # ssh -i secret.pem ubuntu@54.89.167.49 // full fetching
 # ssh -i secret.pem ubuntu@18.209.45.236 // done
 # ssh -i secret.pem ubuntu@34.229.206.109
