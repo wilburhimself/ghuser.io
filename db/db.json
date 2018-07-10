@@ -19302,6 +19302,376 @@
       },
       "organizations": []
     },
+    "crazy-max": {
+      "login": "crazy-max",
+      "ghuser_created_at": "2018-07-10T10:05:23.612Z",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1951866?v=4",
+      "html_url": "https://github.com/crazy-max",
+      "organizations_url": "https://api.github.com/users/crazy-max/orgs",
+      "repos_url": "https://api.github.com/users/crazy-max/repos",
+      "type": "User",
+      "name": "CrazyMax",
+      "company": null,
+      "blog": "",
+      "location": "hostname -l",
+      "email": null,
+      "bio": "4 8 15 16 23 42",
+      "created_at": "2012-07-10T18:54:34Z",
+      "updated_at": "2018-07-02T00:44:50Z",
+      "contribs": {
+        "fetched_at": "2018-07-10T10:06:13.260Z",
+        "repos": {
+          "crazy-max/docker-librenms": {
+            "full_name": "crazy-max/docker-librenms"
+          },
+          "crazy-max/docker-rrdcached": {
+            "full_name": "crazy-max/docker-rrdcached"
+          },
+          "crazy-max/WindowsSpyBlocker": {
+            "full_name": "crazy-max/WindowsSpyBlocker"
+          },
+          "crazy-max/docker-snmpd": {
+            "full_name": "crazy-max/docker-snmpd"
+          },
+          "portapps/brave-portable": {
+            "full_name": "portapps/brave-portable"
+          },
+          "portapps/portapps.github.io": {
+            "full_name": "portapps/portapps.github.io"
+          },
+          "crazy-max/docker-artifactory": {
+            "full_name": "crazy-max/docker-artifactory"
+          },
+          "portapps/postman-portable": {
+            "full_name": "portapps/postman-portable"
+          },
+          "crazy-max/firefox-history-merger": {
+            "full_name": "crazy-max/firefox-history-merger"
+          },
+          "crazy-max/docker-rtorrent-rutorrent": {
+            "full_name": "crazy-max/docker-rtorrent-rutorrent"
+          },
+          "crazy-max/docker-jetbrains-license-server": {
+            "full_name": "crazy-max/docker-jetbrains-license-server"
+          },
+          "crazy-max/docker-dokuwiki": {
+            "full_name": "crazy-max/docker-dokuwiki"
+          },
+          "crazy-max/docker-firefox-syncserver": {
+            "full_name": "crazy-max/docker-firefox-syncserver"
+          },
+          "crazy-max/docker-matomo": {
+            "full_name": "crazy-max/docker-matomo"
+          },
+          "crazy-max/docker-nextcloud": {
+            "full_name": "crazy-max/docker-nextcloud"
+          },
+          "portapps/intellij-idea-community-portable": {
+            "full_name": "portapps/intellij-idea-community-portable"
+          },
+          "portapps/vscode-portable": {
+            "full_name": "portapps/vscode-portable"
+          },
+          "portapps/portapps": {
+            "full_name": "portapps/portapps"
+          },
+          "crazy-max/docker-svn2git-mirror": {
+            "full_name": "crazy-max/docker-svn2git-mirror"
+          },
+          "crazy-max/docker-ejtserver": {
+            "full_name": "crazy-max/docker-ejtserver"
+          },
+          "portapps/intellij-idea-ultimate-portable": {
+            "full_name": "portapps/intellij-idea-ultimate-portable"
+          },
+          "portapps/rocketchat-portable": {
+            "full_name": "portapps/rocketchat-portable"
+          },
+          "portapps/skype-portable": {
+            "full_name": "portapps/skype-portable"
+          },
+          "portapps/teamspeak-client-portable": {
+            "full_name": "portapps/teamspeak-client-portable"
+          },
+          "neard/neard.github.io": {
+            "full_name": "neard/neard.github.io"
+          },
+          "portapps/slack-portable": {
+            "full_name": "portapps/slack-portable"
+          },
+          "crazy-max/csgo-server-launcher": {
+            "full_name": "crazy-max/csgo-server-launcher"
+          },
+          "crazy-max/crossfit-reader": {
+            "full_name": "crazy-max/crossfit-reader"
+          },
+          "crazy-max/dokuwiki-plugin-syntaxhighlighter4": {
+            "full_name": "crazy-max/dokuwiki-plugin-syntaxhighlighter4"
+          },
+          "crazy-max/dokuwiki-plugin-syntaxhighlighter3": {
+            "full_name": "crazy-max/dokuwiki-plugin-syntaxhighlighter3"
+          },
+          "crazy-max/git-rewrite-author": {
+            "full_name": "crazy-max/git-rewrite-author"
+          },
+          "crazy-max/nodejs-portable": {
+            "full_name": "crazy-max/nodejs-portable"
+          },
+          "crazy-max/rtorrent-launcher": {
+            "full_name": "crazy-max/rtorrent-launcher"
+          },
+          "portapps/twitch-portable": {
+            "full_name": "portapps/twitch-portable"
+          },
+          "portapps/handbrake-portable": {
+            "full_name": "portapps/handbrake-portable"
+          },
+          "portapps/discord-portable": {
+            "full_name": "portapps/discord-portable"
+          },
+          "portapps/discord-ptb-portable": {
+            "full_name": "portapps/discord-ptb-portable"
+          },
+          "portapps/docker-toolbox-portable": {
+            "full_name": "portapps/docker-toolbox-portable"
+          },
+          "portapps/hlsw-portable": {
+            "full_name": "portapps/hlsw-portable"
+          },
+          "portapps/hostsman-portable": {
+            "full_name": "portapps/hostsman-portable"
+          },
+          "ftpgrab/docker": {
+            "full_name": "ftpgrab/docker"
+          },
+          "ftpgrab/ftpgrab": {
+            "full_name": "ftpgrab/ftpgrab"
+          },
+          "ftpgrab/ftpgrab.github.io": {
+            "full_name": "ftpgrab/ftpgrab.github.io"
+          },
+          "neard/neard": {
+            "full_name": "neard/neard"
+          },
+          "neard/dev": {
+            "full_name": "neard/dev"
+          },
+          "neard/prerequisites": {
+            "full_name": "neard/prerequisites"
+          },
+          "crazy-max/docker-syntaxhighlighter": {
+            "full_name": "crazy-max/docker-syntaxhighlighter"
+          },
+          "crazy-max/docker-7zip": {
+            "full_name": "crazy-max/docker-7zip"
+          },
+          "crazy-max/docker-fail2ban": {
+            "full_name": "crazy-max/docker-fail2ban"
+          },
+          "crazy-max/CwsCrypto": {
+            "full_name": "crazy-max/CwsCrypto"
+          },
+          "crazy-max/CwsShareCount": {
+            "full_name": "crazy-max/CwsShareCount"
+          },
+          "crazy-max/CwsSession": {
+            "full_name": "crazy-max/CwsSession"
+          },
+          "crazy-max/CwsOvhLogsDownloader": {
+            "full_name": "crazy-max/CwsOvhLogsDownloader"
+          },
+          "crazy-max/CwsMailBounceHandler": {
+            "full_name": "crazy-max/CwsMailBounceHandler"
+          },
+          "crazy-max/CwsDump": {
+            "full_name": "crazy-max/CwsDump"
+          },
+          "crazy-max/CwsDebug": {
+            "full_name": "crazy-max/CwsDebug"
+          },
+          "crazy-max/CwsCurl": {
+            "full_name": "crazy-max/CwsCurl"
+          },
+          "portapps/untouched": {
+            "full_name": "portapps/untouched"
+          },
+          "crazy-max/CwsCaptcha": {
+            "full_name": "crazy-max/CwsCaptcha"
+          },
+          "crazy-max/login-servers-enhanced": {
+            "full_name": "crazy-max/login-servers-enhanced"
+          },
+          "crazy-max/php7-presentation": {
+            "full_name": "crazy-max/php7-presentation"
+          },
+          "neard/module-git": {
+            "full_name": "neard/module-git"
+          },
+          "neard/modules-untouched": {
+            "full_name": "neard/modules-untouched"
+          },
+          "neard/module-php": {
+            "full_name": "neard/module-php"
+          },
+          "crazy-max/mccrestart-bukkit": {
+            "full_name": "crazy-max/mccrestart-bukkit"
+          },
+          "neard/module-adminer": {
+            "full_name": "neard/module-adminer"
+          },
+          "RocketChat/docs": {
+            "full_name": "RocketChat/docs"
+          },
+          "crazy-max/rocketchat-appveyor": {
+            "full_name": "crazy-max/rocketchat-appveyor"
+          },
+          "crazy-max/rocketchat-uptimerobot": {
+            "full_name": "crazy-max/rocketchat-uptimerobot"
+          },
+          "neard/module-apache": {
+            "full_name": "neard/module-apache"
+          },
+          "neard/module-console": {
+            "full_name": "neard/module-console"
+          },
+          "neard/module-phpunit": {
+            "full_name": "neard/module-phpunit"
+          },
+          "neard/module-drush": {
+            "full_name": "neard/module-drush"
+          },
+          "neard/module-yarn": {
+            "full_name": "neard/module-yarn"
+          },
+          "neard/module-ghostscript": {
+            "full_name": "neard/module-ghostscript"
+          },
+          "neard/module-ngrok": {
+            "full_name": "neard/module-ngrok"
+          },
+          "neard/module-nodejs": {
+            "full_name": "neard/module-nodejs"
+          },
+          "neard/module-composer": {
+            "full_name": "neard/module-composer"
+          },
+          "neard/module-gitlist": {
+            "full_name": "neard/module-gitlist"
+          },
+          "neard/module-perl": {
+            "full_name": "neard/module-perl"
+          },
+          "neard/module-mongodb": {
+            "full_name": "neard/module-mongodb"
+          },
+          "neard/module-svn": {
+            "full_name": "neard/module-svn"
+          },
+          "neard/module-ruby": {
+            "full_name": "neard/module-ruby"
+          },
+          "neard/module-python": {
+            "full_name": "neard/module-python"
+          },
+          "neard/module-phppgadmin": {
+            "full_name": "neard/module-phppgadmin"
+          },
+          "neard/module-postgresql": {
+            "full_name": "neard/module-postgresql"
+          },
+          "neard/module-memcached": {
+            "full_name": "neard/module-memcached"
+          },
+          "neard/module-phpmemadmin": {
+            "full_name": "neard/module-phpmemadmin"
+          },
+          "neard/module-mailhog": {
+            "full_name": "neard/module-mailhog"
+          },
+          "neard/module-phpmetrics": {
+            "full_name": "neard/module-phpmetrics"
+          },
+          "neard/module-wpcli": {
+            "full_name": "neard/module-wpcli"
+          },
+          "neard/module-xdc": {
+            "full_name": "neard/module-xdc"
+          },
+          "neard/module-websvn": {
+            "full_name": "neard/module-websvn"
+          },
+          "neard/module-webgrind": {
+            "full_name": "neard/module-webgrind"
+          },
+          "neard/module-phpmyadmin": {
+            "full_name": "neard/module-phpmyadmin"
+          },
+          "neard/module-hostseditor": {
+            "full_name": "neard/module-hostseditor"
+          },
+          "neard/module-notepad2mod": {
+            "full_name": "neard/module-notepad2mod"
+          },
+          "neard/module-nginx": {
+            "full_name": "neard/module-nginx"
+          },
+          "neard/module-imagemagick": {
+            "full_name": "neard/module-imagemagick"
+          },
+          "neard/module-mysql": {
+            "full_name": "neard/module-mysql"
+          },
+          "neard/module-filezilla": {
+            "full_name": "neard/module-filezilla"
+          },
+          "neard/module-mariadb": {
+            "full_name": "neard/module-mariadb"
+          },
+          "badges/shields": {
+            "full_name": "badges/shields"
+          },
+          "crazy-max/expect-nt": {
+            "full_name": "crazy-max/expect-nt"
+          },
+          "crazy-max/websvn": {
+            "full_name": "crazy-max/websvn"
+          },
+          "crazy-max/aetraymenu": {
+            "full_name": "crazy-max/aetraymenu"
+          },
+          "StevenBlack/hosts": {
+            "full_name": "StevenBlack/hosts"
+          },
+          "crazy-max/IOPriority": {
+            "full_name": "crazy-max/IOPriority"
+          },
+          "lgangloff/crossfit-2.0": {
+            "full_name": "lgangloff/crossfit-2.0"
+          },
+          "pi-hole/pi-hole": {
+            "full_name": "pi-hole/pi-hole"
+          },
+          "miniflux/picoFeed": {
+            "full_name": "miniflux/picoFeed"
+          },
+          "crazy-max/IconsRefresh": {
+            "full_name": "crazy-max/IconsRefresh"
+          },
+          "crazy-max/Killer": {
+            "full_name": "crazy-max/Killer"
+          },
+          "Novik/ruTorrent": {
+            "full_name": "Novik/ruTorrent"
+          },
+          "crazy-max/putty-portable": {
+            "full_name": "crazy-max/putty-portable"
+          },
+          "crazy-max/shares-erasor": {
+            "full_name": "crazy-max/shares-erasor"
+          }
+        }
+      }
+    }
     "heyitswither": {
       "login": "heyitswither",
       "ghuser_created_at": "2018-07-10T10:19:34.862Z",
@@ -107202,6 +107572,122 @@
     "ZachAttackMLR/TouchBar-Fun": {},
     "alichtman/CollegeProfile": {},
     "alichtman/TicTacToe": {},
-    "kayldev/inf111-w12": {}
+    "kayldev/inf111-w12": {},
+    "crazy-max/docker-librenms": {},
+    "crazy-max/docker-rrdcached": {},
+    "crazy-max/WindowsSpyBlocker": {},
+    "crazy-max/docker-snmpd": {},
+    "portapps/brave-portable": {},
+    "portapps/portapps.github.io": {},
+    "crazy-max/docker-artifactory": {},
+    "portapps/postman-portable": {},
+    "crazy-max/firefox-history-merger": {},
+    "crazy-max/docker-rtorrent-rutorrent": {},
+    "crazy-max/docker-jetbrains-license-server": {},
+    "crazy-max/docker-dokuwiki": {},
+    "crazy-max/docker-firefox-syncserver": {},
+    "crazy-max/docker-matomo": {},
+    "crazy-max/docker-nextcloud": {},
+    "portapps/intellij-idea-community-portable": {},
+    "portapps/vscode-portable": {},
+    "portapps/portapps": {},
+    "crazy-max/docker-svn2git-mirror": {},
+    "crazy-max/docker-ejtserver": {},
+    "portapps/intellij-idea-ultimate-portable": {},
+    "portapps/rocketchat-portable": {},
+    "portapps/skype-portable": {},
+    "portapps/teamspeak-client-portable": {},
+    "neard/neard.github.io": {},
+    "portapps/slack-portable": {},
+    "crazy-max/csgo-server-launcher": {},
+    "crazy-max/crossfit-reader": {},
+    "crazy-max/dokuwiki-plugin-syntaxhighlighter4": {},
+    "crazy-max/dokuwiki-plugin-syntaxhighlighter3": {},
+    "crazy-max/git-rewrite-author": {},
+    "crazy-max/nodejs-portable": {},
+    "crazy-max/rtorrent-launcher": {},
+    "portapps/twitch-portable": {},
+    "portapps/handbrake-portable": {},
+    "portapps/discord-portable": {},
+    "portapps/discord-ptb-portable": {},
+    "portapps/docker-toolbox-portable": {},
+    "portapps/hlsw-portable": {},
+    "portapps/hostsman-portable": {},
+    "ftpgrab/docker": {},
+    "ftpgrab/ftpgrab": {},
+    "ftpgrab/ftpgrab.github.io": {},
+    "neard/neard": {},
+    "neard/dev": {},
+    "neard/prerequisites": {},
+    "crazy-max/docker-syntaxhighlighter": {},
+    "crazy-max/docker-7zip": {},
+    "crazy-max/docker-fail2ban": {},
+    "crazy-max/CwsCrypto": {},
+    "crazy-max/CwsShareCount": {},
+    "crazy-max/CwsSession": {},
+    "crazy-max/CwsOvhLogsDownloader": {},
+    "crazy-max/CwsMailBounceHandler": {},
+    "crazy-max/CwsDump": {},
+    "crazy-max/CwsDebug": {},
+    "crazy-max/CwsCurl": {},
+    "portapps/untouched": {},
+    "crazy-max/CwsCaptcha": {},
+    "crazy-max/login-servers-enhanced": {},
+    "crazy-max/php7-presentation": {},
+    "neard/module-git": {},
+    "neard/modules-untouched": {},
+    "neard/module-php": {},
+    "crazy-max/mccrestart-bukkit": {},
+    "neard/module-adminer": {},
+    "RocketChat/docs": {},
+    "crazy-max/rocketchat-appveyor": {},
+    "crazy-max/rocketchat-uptimerobot": {},
+    "neard/module-apache": {},
+    "neard/module-console": {},
+    "neard/module-phpunit": {},
+    "neard/module-drush": {},
+    "neard/module-yarn": {},
+    "neard/module-ghostscript": {},
+    "neard/module-ngrok": {},
+    "neard/module-nodejs": {},
+    "neard/module-composer": {},
+    "neard/module-gitlist": {},
+    "neard/module-perl": {},
+    "neard/module-mongodb": {},
+    "neard/module-svn": {},
+    "neard/module-ruby": {},
+    "neard/module-python": {},
+    "neard/module-phppgadmin": {},
+    "neard/module-postgresql": {},
+    "neard/module-memcached": {},
+    "neard/module-phpmemadmin": {},
+    "neard/module-mailhog": {},
+    "neard/module-phpmetrics": {},
+    "neard/module-wpcli": {},
+    "neard/module-xdc": {},
+    "neard/module-websvn": {},
+    "neard/module-webgrind": {},
+    "neard/module-phpmyadmin": {},
+    "neard/module-hostseditor": {},
+    "neard/module-notepad2mod": {},
+    "neard/module-nginx": {},
+    "neard/module-imagemagick": {},
+    "neard/module-mysql": {},
+    "neard/module-filezilla": {},
+    "neard/module-mariadb": {},
+    "badges/shields": {},
+    "crazy-max/expect-nt": {},
+    "crazy-max/websvn": {},
+    "crazy-max/aetraymenu": {},
+    "StevenBlack/hosts": {},
+    "crazy-max/IOPriority": {},
+    "lgangloff/crossfit-2.0": {},
+    "pi-hole/pi-hole": {},
+    "miniflux/picoFeed": {},
+    "crazy-max/IconsRefresh": {},
+    "crazy-max/Killer": {},
+    "Novik/ruTorrent": {},
+    "crazy-max/putty-portable": {},
+    "crazy-max/shares-erasor": {}
   }
 }
