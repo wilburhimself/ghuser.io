@@ -19671,7 +19671,443 @@
           }
         }
       }
-    }
+    },
+    "disiqueira": {
+      "login": "DiSiqueira",
+      "ghuser_created_at": "2018-07-10T09:48:33.162Z",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/683170?v=4",
+      "html_url": "https://github.com/DiSiqueira",
+      "organizations_url": "https://api.github.com/users/DiSiqueira/orgs",
+      "repos_url": "https://api.github.com/users/DiSiqueira/repos",
+      "type": "User",
+      "name": "Diego Siqueira",
+      "company": "HelloFresh (@hellofresh)",
+      "blog": "http://fb.com/DiSiqueira",
+      "location": "Berlin - Germany",
+      "email": null,
+      "bio": "A Computer Engineer - A Passionate Backend Developer",
+      "created_at": "2011-03-22T05:18:27Z",
+      "updated_at": "2018-06-28T09:23:04Z",
+      "contribs": {
+        "fetched_at": "2018-07-10T09:50:13.651Z",
+        "repos": {
+          "jjangsangy/ExplainToMe": {
+            "full_name": "jjangsangy/ExplainToMe"
+          },
+          "DiSiqueira/gocsgo": {
+            "full_name": "DiSiqueira/gocsgo"
+          },
+          "DiSiqueira/UltraSlackBot": {
+            "full_name": "DiSiqueira/UltraSlackBot"
+          },
+          "Krognol/go-wolfram": {
+            "full_name": "Krognol/go-wolfram"
+          },
+          "DiSiqueira/go-wolfram": {
+            "full_name": "DiSiqueira/go-wolfram"
+          },
+          "nicolopignatelli/wc2018-slack-bot": {
+            "full_name": "nicolopignatelli/wc2018-slack-bot"
+          },
+          "DiSiqueira/GoTree": {
+            "full_name": "DiSiqueira/GoTree"
+          },
+          "ludo237/csgo-config": {
+            "full_name": "ludo237/csgo-config"
+          },
+          "DiSiqueira/Gorganizer": {
+            "full_name": "DiSiqueira/Gorganizer"
+          },
+          "opentracing/opentracing-go": {
+            "full_name": "opentracing/opentracing-go"
+          },
+          "DiSiqueira/redditflair": {
+            "full_name": "DiSiqueira/redditflair"
+          },
+          "kennethreitz/twitter-scraper": {
+            "full_name": "kennethreitz/twitter-scraper"
+          },
+          "micro/go-config": {
+            "full_name": "micro/go-config"
+          },
+          "DiSiqueira/webextractor": {
+            "full_name": "DiSiqueira/webextractor"
+          },
+          "DiSiqueira/ginf": {
+            "full_name": "DiSiqueira/ginf"
+          },
+          "DiSiqueira/Go-Example": {
+            "full_name": "DiSiqueira/Go-Example"
+          },
+          "DiSiqueira/MySlackBotTwo": {
+            "full_name": "DiSiqueira/MySlackBotTwo"
+          },
+          "DiSiqueira/mypm": {
+            "full_name": "DiSiqueira/mypm"
+          },
+          "DiSiqueira/TinderOnline": {
+            "full_name": "DiSiqueira/TinderOnline"
+          },
+          "DiSiqueira/MySlackBot": {
+            "full_name": "DiSiqueira/MySlackBot"
+          },
+          "graylog-labs/graylog-plugin-slack": {
+            "full_name": "graylog-labs/graylog-plugin-slack"
+          },
+          "DiSiqueira/TumblrDownloader2": {
+            "full_name": "DiSiqueira/TumblrDownloader2"
+          },
+          "DiSiqueira/sheet-swarm": {
+            "full_name": "DiSiqueira/sheet-swarm"
+          },
+          "DiSiqueira/tt": {
+            "full_name": "DiSiqueira/tt"
+          },
+          "DiSiqueira/sheet-role-service": {
+            "full_name": "DiSiqueira/sheet-role-service"
+          },
+          "DiSiqueira/sheet-infra": {
+            "full_name": "DiSiqueira/sheet-infra"
+          },
+          "DiSiqueira/InstagramStoriesDownloader": {
+            "full_name": "DiSiqueira/InstagramStoriesDownloader"
+          },
+          "DiSiqueira/mbb": {
+            "full_name": "DiSiqueira/mbb"
+          },
+          "uber-go/zap": {
+            "full_name": "uber-go/zap"
+          },
+          "DiSiqueira/sheet-movie-service": {
+            "full_name": "DiSiqueira/sheet-movie-service"
+          },
+          "GrupoZapVivaReal/x9": {
+            "full_name": "GrupoZapVivaReal/x9"
+          },
+          "google/go-intervals": {
+            "full_name": "google/go-intervals"
+          },
+          "jyap808/go-poloniex": {
+            "full_name": "jyap808/go-poloniex"
+          },
+          "DiSiqueira/PoloniexTraderBot": {
+            "full_name": "DiSiqueira/PoloniexTraderBot"
+          },
+          "hellofresh/ci-bully": {
+            "full_name": "hellofresh/ci-bully"
+          },
+          "DiSiqueira/InstagramDownloader": {
+            "full_name": "DiSiqueira/InstagramDownloader"
+          },
+          "ahelal/ci-bully": {
+            "full_name": "ahelal/ci-bully"
+          },
+          "DiSiqueira/yrtyv": {
+            "full_name": "DiSiqueira/yrtyv"
+          },
+          "DiSiqueira/RedditToSlack": {
+            "full_name": "DiSiqueira/RedditToSlack"
+          },
+          "google/skylark": {
+            "full_name": "google/skylark"
+          },
+          "Netflix/chaosmonkey": {
+            "full_name": "Netflix/chaosmonkey"
+          },
+          "Netflix/rend": {
+            "full_name": "Netflix/rend"
+          },
+          "DiSiqueira/ginfio": {
+            "full_name": "DiSiqueira/ginfio"
+          },
+          "DiSiqueira/TumblrDownloader": {
+            "full_name": "DiSiqueira/TumblrDownloader"
+          },
+          "OpenGenus/cosmos": {
+            "full_name": "OpenGenus/cosmos"
+          },
+          "lyft/gostats": {
+            "full_name": "lyft/gostats"
+          },
+          "DiSiqueira/StaticServer": {
+            "full_name": "DiSiqueira/StaticServer"
+          },
+          "jmoiron/sqlx": {
+            "full_name": "jmoiron/sqlx"
+          },
+          "yTakkar/Go-Mini-Social-Network": {
+            "full_name": "yTakkar/Go-Mini-Social-Network"
+          },
+          "DiSiqueira/PoContext": {
+            "full_name": "DiSiqueira/PoContext"
+          },
+          "DiSiqueira/StrafeGO": {
+            "full_name": "DiSiqueira/StrafeGO"
+          },
+          "fabiorphp/docker-golang-glide": {
+            "full_name": "fabiorphp/docker-golang-glide"
+          },
+          "DiSiqueira/blocktale": {
+            "full_name": "DiSiqueira/blocktale"
+          },
+          "DiSiqueira/gostats": {
+            "full_name": "DiSiqueira/gostats"
+          },
+          "lyft/goruntime": {
+            "full_name": "lyft/goruntime"
+          },
+          "DiSiqueira/sib": {
+            "full_name": "DiSiqueira/sib"
+          },
+          "DiSiqueira/frango": {
+            "full_name": "DiSiqueira/frango"
+          },
+          "DiSiqueira/TinderMatches": {
+            "full_name": "DiSiqueira/TinderMatches"
+          },
+          "DiSiqueira/CryptoPunks": {
+            "full_name": "DiSiqueira/CryptoPunks"
+          },
+          "DiSiqueira/concourse-tutorial": {
+            "full_name": "DiSiqueira/concourse-tutorial"
+          },
+          "goby-lang/goby": {
+            "full_name": "goby-lang/goby"
+          },
+          "DiSiqueira/DSDownload": {
+            "full_name": "DiSiqueira/DSDownload"
+          },
+          "DiSiqueira/YodaMovies": {
+            "full_name": "DiSiqueira/YodaMovies"
+          },
+          "DiSiqueira/Flisol": {
+            "full_name": "DiSiqueira/Flisol"
+          },
+          "DiSiqueira/TinderGo": {
+            "full_name": "DiSiqueira/TinderGo"
+          },
+          "DiSiqueira/BrazilianFootball": {
+            "full_name": "DiSiqueira/BrazilianFootball"
+          },
+          "DiSiqueira/Overwatch": {
+            "full_name": "DiSiqueira/Overwatch"
+          },
+          "labstack/echo": {
+            "full_name": "labstack/echo"
+          },
+          "DiSiqueira/devtalks": {
+            "full_name": "DiSiqueira/devtalks"
+          },
+          "DiSiqueira/WebSiteScreenshot": {
+            "full_name": "DiSiqueira/WebSiteScreenshot"
+          },
+          "DiSiqueira/RedditReplyer": {
+            "full_name": "DiSiqueira/RedditReplyer"
+          },
+          "DiSiqueira/GoCurrency": {
+            "full_name": "DiSiqueira/GoCurrency"
+          },
+          "DiSiqueira/HttpHealth": {
+            "full_name": "DiSiqueira/HttpHealth"
+          },
+          "DiSiqueira/TinderFinder": {
+            "full_name": "DiSiqueira/TinderFinder"
+          },
+          "DiSiqueira/Trilateration": {
+            "full_name": "DiSiqueira/Trilateration"
+          },
+          "DiSiqueira/Itinerary": {
+            "full_name": "DiSiqueira/Itinerary"
+          },
+          "gorilla/mux": {
+            "full_name": "gorilla/mux"
+          },
+          "DiSiqueira/AllFood": {
+            "full_name": "DiSiqueira/AllFood"
+          },
+          "DiSiqueira/ItiSchemes": {
+            "full_name": "DiSiqueira/ItiSchemes"
+          },
+          "DiSiqueira/ItiOS": {
+            "full_name": "DiSiqueira/ItiOS"
+          },
+          "DiSiqueira/ItiMobile": {
+            "full_name": "DiSiqueira/ItiMobile"
+          },
+          "DiSiqueira/ItiBrowser": {
+            "full_name": "DiSiqueira/ItiBrowser"
+          },
+          "DiSiqueira/ItiQuery": {
+            "full_name": "DiSiqueira/ItiQuery"
+          },
+          "DiSiqueira/ItiHost": {
+            "full_name": "DiSiqueira/ItiHost"
+          },
+          "DiSiqueira/ItiHeader": {
+            "full_name": "DiSiqueira/ItiHeader"
+          },
+          "DiSiqueira/ItiExact": {
+            "full_name": "DiSiqueira/ItiExact"
+          },
+          "DiSiqueira/ItiBot": {
+            "full_name": "DiSiqueira/ItiBot"
+          },
+          "DiSiqueira/ItiWildcard": {
+            "full_name": "DiSiqueira/ItiWildcard"
+          },
+          "DiSiqueira/ItiPathPrefix": {
+            "full_name": "DiSiqueira/ItiPathPrefix"
+          },
+          "DiSiqueira/itineraryexamples": {
+            "full_name": "DiSiqueira/itineraryexamples"
+          },
+          "DiSiqueira/ItineraryBenchmark": {
+            "full_name": "DiSiqueira/ItineraryBenchmark"
+          },
+          "DiSiqueira/ItiMethod": {
+            "full_name": "DiSiqueira/ItiMethod"
+          },
+          "DiSiqueira/ItiBasicAuth": {
+            "full_name": "DiSiqueira/ItiBasicAuth"
+          },
+          "muesli/beehive": {
+            "full_name": "muesli/beehive"
+          },
+          "DiSiqueira/TinderLikes": {
+            "full_name": "DiSiqueira/TinderLikes"
+          },
+          "DiSiqueira/DSFacebookStalker": {
+            "full_name": "DiSiqueira/DSFacebookStalker"
+          },
+          "jinzhu/gorm": {
+            "full_name": "jinzhu/gorm"
+          },
+          "Shopify/go-lua": {
+            "full_name": "Shopify/go-lua"
+          },
+          "Shopify/sarama": {
+            "full_name": "Shopify/sarama"
+          },
+          "DiSiqueira/Tindetective": {
+            "full_name": "DiSiqueira/Tindetective"
+          },
+          "andreburgaud/crypt2go": {
+            "full_name": "andreburgaud/crypt2go"
+          },
+          "koding/koding": {
+            "full_name": "koding/koding"
+          },
+          "koding/kite": {
+            "full_name": "koding/kite"
+          },
+          "DiSiqueira/DSImgur": {
+            "full_name": "DiSiqueira/DSImgur"
+          },
+          "rjeczalik/notify": {
+            "full_name": "rjeczalik/notify"
+          },
+          "moby/moby": {
+            "full_name": "moby/moby"
+          },
+          "cloudflare/hellogopher": {
+            "full_name": "cloudflare/hellogopher"
+          },
+          "DiSiqueira/oscars": {
+            "full_name": "DiSiqueira/oscars"
+          },
+          "DiSiqueira/RedditAds": {
+            "full_name": "DiSiqueira/RedditAds"
+          },
+          "ethereum/go-ethereum": {
+            "full_name": "ethereum/go-ethereum"
+          },
+          "DiSiqueira/uebersicht-wiki-holidays.widget": {
+            "full_name": "DiSiqueira/uebersicht-wiki-holidays.widget"
+          },
+          "cockroachdb/cockroach": {
+            "full_name": "cockroachdb/cockroach"
+          },
+          "DiSiqueira/myke": {
+            "full_name": "DiSiqueira/myke"
+          },
+          "Xeoncross/secureserver": {
+            "full_name": "Xeoncross/secureserver"
+          },
+          "geohot/lolrecaptcha": {
+            "full_name": "geohot/lolrecaptcha"
+          },
+          "gfnord/docker_aliases": {
+            "full_name": "gfnord/docker_aliases"
+          },
+          "DiSiqueira/DSMaterialDesign": {
+            "full_name": "DiSiqueira/DSMaterialDesign"
+          },
+          "DiSiqueira/FreeWorkflow": {
+            "full_name": "DiSiqueira/FreeWorkflow"
+          },
+          "jmdugan/blocklists": {
+            "full_name": "jmdugan/blocklists"
+          },
+          "jchahoud/BRConferences": {
+            "full_name": "jchahoud/BRConferences"
+          },
+          "DiSiqueira/DSSplashScreen": {
+            "full_name": "DiSiqueira/DSSplashScreen"
+          },
+          "DiSiqueira/DSGetIPAddress": {
+            "full_name": "DiSiqueira/DSGetIPAddress"
+          },
+          "DiSiqueira/DSHouseMaid": {
+            "full_name": "DiSiqueira/DSHouseMaid"
+          },
+          "DiSiqueira/GoByExample": {
+            "full_name": "DiSiqueira/GoByExample"
+          },
+          "DiSiqueira/DSFacebookSDK": {
+            "full_name": "DiSiqueira/DSFacebookSDK"
+          },
+          "DiSiqueira/UrbanFood": {
+            "full_name": "DiSiqueira/UrbanFood"
+          },
+          "DiSiqueira/DSFacebookVideo": {
+            "full_name": "DiSiqueira/DSFacebookVideo"
+          },
+          "DiSiqueira/DSms": {
+            "full_name": "DiSiqueira/DSms"
+          },
+          "DiSiqueira/TheOscars": {
+            "full_name": "DiSiqueira/TheOscars"
+          },
+          "bhrigu123/classifier": {
+            "full_name": "bhrigu123/classifier"
+          },
+          "DiSiqueira/classifier": {
+            "full_name": "DiSiqueira/classifier"
+          },
+          "DiSiqueira/FriendlyBot": {
+            "full_name": "DiSiqueira/FriendlyBot"
+          },
+          "quillford/whoisatthedoor": {
+            "full_name": "quillford/whoisatthedoor"
+          },
+          "DiSiqueira/FoodTracker2": {
+            "full_name": "DiSiqueira/FoodTracker2"
+          },
+          "DiSiqueira/repospergdp": {
+            "full_name": "DiSiqueira/repospergdp"
+          },
+          "DiSiqueira/flappybird": {
+            "full_name": "DiSiqueira/flappybird"
+          },
+          "DiSiqueira/FoodTracker": {
+            "full_name": "DiSiqueira/FoodTracker"
+          },
+          "DiSiqueira/sueca-angular": {
+            "full_name": "DiSiqueira/sueca-angular"
+          }
+        }
+      }
+    },
     "heyitswither": {
       "login": "heyitswither",
       "ghuser_created_at": "2018-07-10T10:19:34.862Z",
@@ -107688,6 +108124,143 @@
     "crazy-max/Killer": {},
     "Novik/ruTorrent": {},
     "crazy-max/putty-portable": {},
-    "crazy-max/shares-erasor": {}
+    "crazy-max/shares-erasor": {},
+    "jjangsangy/ExplainToMe": {},
+    "DiSiqueira/gocsgo": {},
+    "DiSiqueira/UltraSlackBot": {},
+    "Krognol/go-wolfram": {},
+    "DiSiqueira/go-wolfram": {},
+    "nicolopignatelli/wc2018-slack-bot": {},
+    "DiSiqueira/GoTree": {},
+    "ludo237/csgo-config": {},
+    "DiSiqueira/Gorganizer": {},
+    "opentracing/opentracing-go": {},
+    "DiSiqueira/redditflair": {},
+    "kennethreitz/twitter-scraper": {},
+    "micro/go-config": {},
+    "DiSiqueira/webextractor": {},
+    "DiSiqueira/ginf": {},
+    "DiSiqueira/Go-Example": {},
+    "DiSiqueira/MySlackBotTwo": {},
+    "DiSiqueira/mypm": {},
+    "DiSiqueira/TinderOnline": {},
+    "DiSiqueira/MySlackBot": {},
+    "graylog-labs/graylog-plugin-slack": {},
+    "DiSiqueira/TumblrDownloader2": {},
+    "DiSiqueira/sheet-swarm": {},
+    "DiSiqueira/tt": {},
+    "DiSiqueira/sheet-role-service": {},
+    "DiSiqueira/sheet-infra": {},
+    "DiSiqueira/InstagramStoriesDownloader": {},
+    "DiSiqueira/mbb": {},
+    "uber-go/zap": {},
+    "DiSiqueira/sheet-movie-service": {},
+    "GrupoZapVivaReal/x9": {},
+    "google/go-intervals": {},
+    "jyap808/go-poloniex": {},
+    "DiSiqueira/PoloniexTraderBot": {},
+    "hellofresh/ci-bully": {},
+    "DiSiqueira/InstagramDownloader": {},
+    "ahelal/ci-bully": {},
+    "DiSiqueira/yrtyv": {},
+    "DiSiqueira/RedditToSlack": {},
+    "google/skylark": {},
+    "Netflix/chaosmonkey": {},
+    "Netflix/rend": {},
+    "DiSiqueira/ginfio": {},
+    "DiSiqueira/TumblrDownloader": {},
+    "OpenGenus/cosmos": {},
+    "lyft/gostats": {},
+    "DiSiqueira/StaticServer": {},
+    "jmoiron/sqlx": {},
+    "yTakkar/Go-Mini-Social-Network": {},
+    "DiSiqueira/PoContext": {},
+    "DiSiqueira/StrafeGO": {},
+    "fabiorphp/docker-golang-glide": {},
+    "DiSiqueira/blocktale": {},
+    "DiSiqueira/gostats": {},
+    "lyft/goruntime": {},
+    "DiSiqueira/sib": {},
+    "DiSiqueira/frango": {},
+    "DiSiqueira/TinderMatches": {},
+    "DiSiqueira/CryptoPunks": {},
+    "DiSiqueira/concourse-tutorial": {},
+    "goby-lang/goby": {},
+    "DiSiqueira/DSDownload": {},
+    "DiSiqueira/YodaMovies": {},
+    "DiSiqueira/Flisol": {},
+    "DiSiqueira/TinderGo": {},
+    "DiSiqueira/BrazilianFootball": {},
+    "DiSiqueira/Overwatch": {},
+    "labstack/echo": {},
+    "DiSiqueira/devtalks": {},
+    "DiSiqueira/WebSiteScreenshot": {},
+    "DiSiqueira/RedditReplyer": {},
+    "DiSiqueira/GoCurrency": {},
+    "DiSiqueira/HttpHealth": {},
+    "DiSiqueira/TinderFinder": {},
+    "DiSiqueira/Trilateration": {},
+    "DiSiqueira/Itinerary": {},
+    "gorilla/mux": {},
+    "DiSiqueira/AllFood": {},
+    "DiSiqueira/ItiSchemes": {},
+    "DiSiqueira/ItiOS": {},
+    "DiSiqueira/ItiMobile": {},
+    "DiSiqueira/ItiBrowser": {},
+    "DiSiqueira/ItiQuery": {},
+    "DiSiqueira/ItiHost": {},
+    "DiSiqueira/ItiHeader": {},
+    "DiSiqueira/ItiExact": {},
+    "DiSiqueira/ItiBot": {},
+    "DiSiqueira/ItiWildcard": {},
+    "DiSiqueira/ItiPathPrefix": {},
+    "DiSiqueira/itineraryexamples": {},
+    "DiSiqueira/ItineraryBenchmark": {},
+    "DiSiqueira/ItiMethod": {},
+    "DiSiqueira/ItiBasicAuth": {},
+    "muesli/beehive": {},
+    "DiSiqueira/TinderLikes": {},
+    "DiSiqueira/DSFacebookStalker": {},
+    "jinzhu/gorm": {},
+    "Shopify/go-lua": {},
+    "Shopify/sarama": {},
+    "DiSiqueira/Tindetective": {},
+    "andreburgaud/crypt2go": {},
+    "koding/koding": {},
+    "koding/kite": {},
+    "DiSiqueira/DSImgur": {},
+    "rjeczalik/notify": {},
+    "cloudflare/hellogopher": {},
+    "DiSiqueira/oscars": {},
+    "DiSiqueira/RedditAds": {},
+    "ethereum/go-ethereum": {},
+    "DiSiqueira/uebersicht-wiki-holidays.widget": {},
+    "cockroachdb/cockroach": {},
+    "DiSiqueira/myke": {},
+    "Xeoncross/secureserver": {},
+    "geohot/lolrecaptcha": {},
+    "gfnord/docker_aliases": {},
+    "DiSiqueira/DSMaterialDesign": {},
+    "DiSiqueira/FreeWorkflow": {},
+    "jmdugan/blocklists": {},
+    "jchahoud/BRConferences": {},
+    "DiSiqueira/DSSplashScreen": {},
+    "DiSiqueira/DSGetIPAddress": {},
+    "DiSiqueira/DSHouseMaid": {},
+    "DiSiqueira/GoByExample": {},
+    "DiSiqueira/DSFacebookSDK": {},
+    "DiSiqueira/UrbanFood": {},
+    "DiSiqueira/DSFacebookVideo": {},
+    "DiSiqueira/DSms": {},
+    "DiSiqueira/TheOscars": {},
+    "bhrigu123/classifier": {},
+    "DiSiqueira/classifier": {},
+    "DiSiqueira/FriendlyBot": {},
+    "quillford/whoisatthedoor": {},
+    "DiSiqueira/FoodTracker2": {},
+    "DiSiqueira/repospergdp": {},
+    "DiSiqueira/flappybird": {},
+    "DiSiqueira/FoodTracker": {},
+    "DiSiqueira/sueca-angular": {}
   }
 }
