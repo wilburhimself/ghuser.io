@@ -18894,6 +18894,124 @@
         "repos": {}
       },
       "organizations": []
+    },
+    "wilburhimself": {
+      "login": "wilburhimself",
+      "ghuser_created_at": "2018-07-10T10:28:08.245Z",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8761?v=4",
+      "html_url": "https://github.com/wilburhimself",
+      "organizations_url": "https://api.github.com/users/wilburhimself/orgs",
+      "repos_url": "https://api.github.com/users/wilburhimself/repos",
+      "type": "User",
+      "name": "Wilbur Suero",
+      "company": "@PipelineDeals ",
+      "blog": "http://retrorock.info",
+      "location": "Santo Domingo, Dominican Republic",
+      "email": null,
+      "bio": "Software developer.",
+      "created_at": "2008-04-28T19:51:55Z",
+      "updated_at": "2018-07-03T06:57:01Z",
+      "contribs": {
+        "fetched_at": "2018-07-10T10:28:58.749Z",
+        "repos": {
+          "wilburhimself/practical-redux-tutorial": {
+            "full_name": "wilburhimself/practical-redux-tutorial"
+          },
+          "wilburhimself/wilburhimself.github.io": {
+            "full_name": "wilburhimself/wilburhimself.github.io"
+          },
+          "developersdo/opensource": {
+            "full_name": "developersdo/opensource"
+          },
+          "wilburhimself/Deals-Pipeline": {
+            "full_name": "wilburhimself/Deals-Pipeline"
+          },
+          "ForwardFinancing/forwardfinancing.github.io": {
+            "full_name": "ForwardFinancing/forwardfinancing.github.io"
+          },
+          "ForwardFinancing/process_lock": {
+            "full_name": "ForwardFinancing/process_lock"
+          },
+          "wilburhimself/retrorock-jekyll-theme": {
+            "full_name": "wilburhimself/retrorock-jekyll-theme"
+          },
+          "SinanMtl/webpack-simple-starter": {
+            "full_name": "SinanMtl/webpack-simple-starter"
+          },
+          "edwardtufte/tufte-css": {
+            "full_name": "edwardtufte/tufte-css"
+          },
+          "wilburhimself/rubykoans": {
+            "full_name": "wilburhimself/rubykoans"
+          },
+          "knightking100/hello-worlds": {
+            "full_name": "knightking100/hello-worlds"
+          },
+          "wilburhimself/Theory": {
+            "full_name": "wilburhimself/Theory"
+          },
+          "wilburhimself/timezone_clock": {
+            "full_name": "wilburhimself/timezone_clock"
+          },
+          "wilburhimself/graphql_sequelize_starter": {
+            "full_name": "wilburhimself/graphql_sequelize_starter"
+          },
+          "SpinaCMS/Spina": {
+            "full_name": "SpinaCMS/Spina"
+          },
+          "cdnjs/cdnjs": {
+            "full_name": "cdnjs/cdnjs"
+          },
+          "EbookFoundation/free-programming-books": {
+            "full_name": "EbookFoundation/free-programming-books"
+          },
+          "wilburhimself/dropboxy": {
+            "full_name": "wilburhimself/dropboxy"
+          },
+          "wilburhimself/practicalcommonlisp": {
+            "full_name": "wilburhimself/practicalcommonlisp"
+          },
+          "wilburhimself/sandwich-store": {
+            "full_name": "wilburhimself/sandwich-store"
+          },
+          "wilburhimself/startupadvise": {
+            "full_name": "wilburhimself/startupadvise"
+          },
+          "wilburhimself/sinatra_lyrics": {
+            "full_name": "wilburhimself/sinatra_lyrics"
+          },
+          "wilburhimself/fastbreak": {
+            "full_name": "wilburhimself/fastbreak"
+          },
+          "wilburhimself/flame": {
+            "full_name": "wilburhimself/flame"
+          },
+          "wilburhimself/shell-tutorial": {
+            "full_name": "wilburhimself/shell-tutorial"
+          },
+          "wilburhimself/bottle-hello": {
+            "full_name": "wilburhimself/bottle-hello"
+          },
+          "wilburhimself/djangoproject-tutorial": {
+            "full_name": "wilburhimself/djangoproject-tutorial"
+          },
+          "wilburhimself/mujerbhd": {
+            "full_name": "wilburhimself/mujerbhd"
+          },
+          "wilburhimself/fullscreen": {
+            "full_name": "wilburhimself/fullscreen"
+          },
+          "wilburhimself/evev": {
+            "full_name": "wilburhimself/evev"
+          },
+          "wilburhimself/tombler": {
+            "full_name": "wilburhimself/tombler"
+          },
+          "bcit-ci/CodeIgniter": {
+            "full_name": "bcit-ci/CodeIgniter"
+          }
+        }
+      }
     }
   },
   "orgs": {
@@ -102838,6 +102956,38 @@
         }
       },
       "prev_fetched_at": "2018-07-09T06:05:03.076Z"
-    }
+    },
+    "wilburhimself/practical-redux-tutorial": {},
+    "wilburhimself/wilburhimself.github.io": {},
+    "developersdo/opensource": {},
+    "wilburhimself/Deals-Pipeline": {},
+    "ForwardFinancing/forwardfinancing.github.io": {},
+    "ForwardFinancing/process_lock": {},
+    "wilburhimself/retrorock-jekyll-theme": {},
+    "SinanMtl/webpack-simple-starter": {},
+    "edwardtufte/tufte-css": {},
+    "wilburhimself/rubykoans": {},
+    "knightking100/hello-worlds": {},
+    "wilburhimself/Theory": {},
+    "wilburhimself/timezone_clock": {},
+    "wilburhimself/graphql_sequelize_starter": {},
+    "SpinaCMS/Spina": {},
+    "cdnjs/cdnjs": {},
+    "EbookFoundation/free-programming-books": {},
+    "wilburhimself/dropboxy": {},
+    "wilburhimself/practicalcommonlisp": {},
+    "wilburhimself/sandwich-store": {},
+    "wilburhimself/startupadvise": {},
+    "wilburhimself/sinatra_lyrics": {},
+    "wilburhimself/fastbreak": {},
+    "wilburhimself/flame": {},
+    "wilburhimself/shell-tutorial": {},
+    "wilburhimself/bottle-hello": {},
+    "wilburhimself/djangoproject-tutorial": {},
+    "wilburhimself/mujerbhd": {},
+    "wilburhimself/fullscreen": {},
+    "wilburhimself/evev": {},
+    "wilburhimself/tombler": {},
+    "bcit-ci/CodeIgniter": {}
   }
 }
