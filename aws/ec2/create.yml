@@ -19,6 +19,13 @@
 # TODO:
 # SG SSH inbound from anywhere
 # ssh -i secret.pem ubuntu@54.146.161.0
+# ssh -i secret.pem ubuntu@34.233.121.88
+# ssh -i secret.pem ubuntu@54.89.167.49 // done, full fetching
+# ssh -i secret.pem ubuntu@18.209.45.236 // done
+# ssh -i secret.pem ubuntu@34.229.206.109
+# ssh -i secret.pem ubuntu@54.174.98.35 // quick
 # tmux new-session -s 1
 # tmux attach -t 1
+# curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+# sudo apt-get install -y nodejs
 # git clone https://AurelienLourot@github.com/AurelienLourot/ghuser.io.git
