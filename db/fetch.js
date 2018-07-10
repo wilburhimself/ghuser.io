@@ -54,8 +54,9 @@
       if (!db.users[userId].ghuser_deleted_because) {
         ++numUsers;
         await fetchUser(userId);
-        await fetchUserOrgs(userId);
+        //LA_TODO await fetchUserOrgs(userId);
         await fetchUserContribs(userId);
+        throw 'LA_TEMP';
         await fetchUserPopularForks(userId);
       }
       break; //LA_TEMP
