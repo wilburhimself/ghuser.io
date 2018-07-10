@@ -19154,6 +19154,100 @@
           }
         }
       }
+    },
+    "aryaminus": {
+      "login": "aryaminus",
+      "ghuser_created_at": "2018-07-10T10:11:51.758Z",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/16350823?v=4",
+      "html_url": "https://github.com/aryaminus",
+      "organizations_url": "https://api.github.com/users/aryaminus/orgs",
+      "repos_url": "https://api.github.com/users/aryaminus/repos",
+      "type": "User",
+      "name": "Sunim Acharya",
+      "company": "ARMS",
+      "blog": "http://sunim.com.np",
+      "location": "Kathmandu, Nepal",
+      "email": null,
+      "bio": "Let's Crash IT",
+      "created_at": "2015-12-18T12:57:56Z",
+      "updated_at": "2018-07-03T14:34:03Z",
+      "contribs": {
+        "fetched_at": "2018-07-10T10:12:42.747Z",
+        "repos": {
+          "aryaminus/nazar-server": {
+            "full_name": "aryaminus/nazar-server"
+          },
+          "aryaminus/nazar": {
+            "full_name": "aryaminus/nazar"
+          },
+          "aryaminus/RN-voice-video-call": {
+            "full_name": "aryaminus/RN-voice-video-call"
+          },
+          "samyoga/email-on-voice": {
+            "full_name": "samyoga/email-on-voice"
+          },
+          "aryaminus/memento": {
+            "full_name": "aryaminus/memento"
+          },
+          "aryaminus/saram": {
+            "full_name": "aryaminus/saram"
+          },
+          "aryaminus/flowmaker": {
+            "full_name": "aryaminus/flowmaker"
+          },
+          "samyoga/volleyball": {
+            "full_name": "samyoga/volleyball"
+          },
+          "aryaminus/srijana": {
+            "full_name": "aryaminus/srijana"
+          },
+          "aryaminus/spacegadi": {
+            "full_name": "aryaminus/spacegadi"
+          },
+          "psuzn/nepalReport": {
+            "full_name": "psuzn/nepalReport"
+          },
+          "ycc-ku18/flowmaker": {
+            "full_name": "ycc-ku18/flowmaker"
+          },
+          "aryaminus/RN-firechat": {
+            "full_name": "aryaminus/RN-firechat"
+          },
+          "aryaminus/RN-firechat-functions": {
+            "full_name": "aryaminus/RN-firechat-functions"
+          },
+          "aryaminus/RN-intro-screen": {
+            "full_name": "aryaminus/RN-intro-screen"
+          },
+          "aryaminus/RN-login-register-screen": {
+            "full_name": "aryaminus/RN-login-register-screen"
+          },
+          "aryaminus/RN-splash-screen": {
+            "full_name": "aryaminus/RN-splash-screen"
+          },
+          "aryaminus/github-battle": {
+            "full_name": "aryaminus/github-battle"
+          },
+          "aryaminus/hate-calc": {
+            "full_name": "aryaminus/hate-calc"
+          },
+          "aryaminus/twitly": {
+            "full_name": "aryaminus/twitly"
+          },
+          "aryaminus/reactN-testing": {
+            "full_name": "aryaminus/reactN-testing"
+          },
+          "aryaminus/url-shortner": {
+            "full_name": "aryaminus/url-shortner"
+          },
+          "aryaminus/book-review-testing": {
+            "full_name": "aryaminus/book-review-testing"
+          },
+          "aryaminus/rails-testing": {
+            "full_name": "aryaminus/rails-testing"
+          }
+        }
+      }
     }
   },
   "orgs": {
@@ -101909,6 +102003,30 @@
     "heyitswither/counting-bot-discord": {},
     "heyitswither/flask-url-shortener": {},
     "Aareon/prettyoutput": {},
-    "Hectate/moonstache": {}
+    "Hectate/moonstache": {},
+    "aryaminus/nazar-server": {},
+    "aryaminus/nazar": {},
+    "aryaminus/RN-voice-video-call": {},
+    "samyoga/email-on-voice": {},
+    "aryaminus/memento": {},
+    "aryaminus/saram": {},
+    "aryaminus/flowmaker": {},
+    "samyoga/volleyball": {},
+    "aryaminus/srijana": {},
+    "aryaminus/spacegadi": {},
+    "psuzn/nepalReport": {},
+    "ycc-ku18/flowmaker": {},
+    "aryaminus/RN-firechat": {},
+    "aryaminus/RN-firechat-functions": {},
+    "aryaminus/RN-intro-screen": {},
+    "aryaminus/RN-login-register-screen": {},
+    "aryaminus/RN-splash-screen": {},
+    "aryaminus/github-battle": {},
+    "aryaminus/hate-calc": {},
+    "aryaminus/twitly": {},
+    "aryaminus/reactN-testing": {},
+    "aryaminus/url-shortner": {},
+    "aryaminus/book-review-testing": {},
+    "aryaminus/rails-testing": {}
   }
 }
