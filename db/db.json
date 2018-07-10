@@ -19048,6 +19048,112 @@
         }
       },
       "organizations": []
+    },
+    "heyitswither": {
+      "login": "heyitswither",
+      "ghuser_created_at": "2018-07-10T10:19:34.862Z",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26576706?v=4",
+      "html_url": "https://github.com/heyitswither",
+      "organizations_url": "https://api.github.com/users/heyitswither/orgs",
+      "repos_url": "https://api.github.com/users/heyitswither/repos",
+      "type": "User",
+      "name": "Tucker Boniface",
+      "company": null,
+      "blog": "",
+      "location": "Washington, USA",
+      "email": null,
+      "bio": null,
+      "created_at": "2017-03-21T15:38:48Z",
+      "updated_at": "2018-07-02T04:28:29Z",
+      "contribs": {
+        "fetched_at": "2018-07-10T10:20:20.571Z",
+        "repos": {
+          "selfagency/microsoft-drop-ice": {
+            "full_name": "selfagency/microsoft-drop-ice"
+          },
+          "heyitswither/perl_tests": {
+            "full_name": "heyitswither/perl_tests"
+          },
+          "heyitswither/chillpass": {
+            "full_name": "heyitswither/chillpass"
+          },
+          "heyitswither/Pascals-Triangle": {
+            "full_name": "heyitswither/Pascals-Triangle"
+          },
+          "heyitswither/tsh": {
+            "full_name": "heyitswither/tsh"
+          },
+          "heyitswither/pyhttp": {
+            "full_name": "heyitswither/pyhttp"
+          },
+          "heyitswither/rogue": {
+            "full_name": "heyitswither/rogue"
+          },
+          "heyitswither/LemonOS": {
+            "full_name": "heyitswither/LemonOS"
+          },
+          "Jguer/yay": {
+            "full_name": "Jguer/yay"
+          },
+          "heyitswither/shortestpath": {
+            "full_name": "heyitswither/shortestpath"
+          },
+          "biglizards/butty": {
+            "full_name": "biglizards/butty"
+          },
+          "heyitswither/Discord-RWCI": {
+            "full_name": "heyitswither/Discord-RWCI"
+          },
+          "heyitswither/Discord-Matrix": {
+            "full_name": "heyitswither/Discord-Matrix"
+          },
+          "heyitswither/raspberry-pi-chat": {
+            "full_name": "heyitswither/raspberry-pi-chat"
+          },
+          "heyitswither/rwci.py": {
+            "full_name": "heyitswither/rwci.py"
+          },
+          "pride-prep/Tucker-Boniface": {
+            "full_name": "pride-prep/Tucker-Boniface"
+          },
+          "heyitswither/Alpha-Bot": {
+            "full_name": "heyitswither/Alpha-Bot"
+          },
+          "heyitswither/heyitswither.github.io": {
+            "full_name": "heyitswither/heyitswither.github.io"
+          },
+          "MomsAgainstDiscord/momsagainstbot": {
+            "full_name": "MomsAgainstDiscord/momsagainstbot"
+          },
+          "jordanb84/template": {
+            "full_name": "jordanb84/template"
+          },
+          "Discoin/old-api": {
+            "full_name": "Discoin/old-api"
+          },
+          "heyitswither/discoin": {
+            "full_name": "heyitswither/discoin"
+          },
+          "der-blaue-elefant/ug2epub": {
+            "full_name": "der-blaue-elefant/ug2epub"
+          },
+          "brianyu14519/brianyu14519.github.io": {
+            "full_name": "brianyu14519/brianyu14519.github.io"
+          },
+          "heyitswither/counting-bot-discord": {
+            "full_name": "heyitswither/counting-bot-discord"
+          },
+          "heyitswither/flask-url-shortener": {
+            "full_name": "heyitswither/flask-url-shortener"
+          },
+          "Aareon/prettyoutput": {
+            "full_name": "Aareon/prettyoutput"
+          },
+          "Hectate/moonstache": {
+            "full_name": "Hectate/moonstache"
+          }
+        }
+      }
     }
   },
   "orgs": {
@@ -101775,6 +101881,34 @@
     "manugarri/lets-chat": {},
     "manugarri/neuraltalk": {},
     "manugarri/SentimentAnalysis": {},
-    "manugarri/whatsapp-bot-seed": {}
+    "manugarri/whatsapp-bot-seed": {},
+    "selfagency/microsoft-drop-ice": {},
+    "heyitswither/perl_tests": {},
+    "heyitswither/chillpass": {},
+    "heyitswither/Pascals-Triangle": {},
+    "heyitswither/tsh": {},
+    "heyitswither/pyhttp": {},
+    "heyitswither/rogue": {},
+    "heyitswither/LemonOS": {},
+    "Jguer/yay": {},
+    "heyitswither/shortestpath": {},
+    "biglizards/butty": {},
+    "heyitswither/Discord-RWCI": {},
+    "heyitswither/Discord-Matrix": {},
+    "heyitswither/raspberry-pi-chat": {},
+    "heyitswither/rwci.py": {},
+    "pride-prep/Tucker-Boniface": {},
+    "heyitswither/Alpha-Bot": {},
+    "heyitswither/heyitswither.github.io": {},
+    "MomsAgainstDiscord/momsagainstbot": {},
+    "jordanb84/template": {},
+    "Discoin/old-api": {},
+    "heyitswither/discoin": {},
+    "der-blaue-elefant/ug2epub": {},
+    "brianyu14519/brianyu14519.github.io": {},
+    "heyitswither/counting-bot-discord": {},
+    "heyitswither/flask-url-shortener": {},
+    "Aareon/prettyoutput": {},
+    "Hectate/moonstache": {}
   }
 }
